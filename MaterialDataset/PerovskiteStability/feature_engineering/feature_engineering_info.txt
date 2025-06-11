@@ -1,0 +1,16 @@
+------相关性筛选--------
+剩余合金因子数：57
+剩余合金因子：['EnergyAboveHull', 'Coeficient of Thermal Expansion (10^-6 K-1)_AB_avg', 'Asite_HHIp_min', 'Bsite0_IsFCC', 'Asite_Coeficient of Thermal Expansion (10^-6 K-1)_max', 'Bsite0_Group', 'Asite_Ionic Radius (angstroms)_range', 'Bsite_IsFCC_weighted_avg', 'MendeleevNumber_AB_avg', 'Asite_HHIr_min', 'Bsite_NUnfilled_weighted_avg', 'Bsite_Electro-  negativity_max', 'Asite_electrical conductivity_max', 'Bsite0_NUnfilled', 'Bsite_NUnfilled_min', 'Bsite0_NdUnfilled', 'Heat of Vaporization_AB_avg', 'Asite_ BP (K)_weighted_avg', 'Bsite_Group_max', 'Second Ionization Potential  (V)_AB_avg', 'At. Radius   (angstroms)_AB_avg', 'Asite_shannon_radii_range', 'Asite_BCCenergydiff_min', 'Asite_HHIr_weighted_avg', 'Bsite0_At. Radius   (angstroms)', 'Bsite_IsBCC_weighted_avg', 'HHIp_AB_avg', 'Bsite_NdUnfilled_weighted_avg', 'BCCfermi_AB_ratio', 'Asite_NUnfilled_max', 'Bsite_Heat of Vaporization_weighted_avg', 'Asite_BCCvolume_pa_range', 'MendeleevNumber_AB_ratio', 'Bsite0_NdValence', 'Bsite_BCCvolume_pa_max', 'Bsite_IsFCC_max', 'Asite_IsRareEarth_max', 'BCCenergydiff_AB_diff', 'Asite_heat of fusion_min', 'GSenergy_pa_AB_avg', 'Bsite_BCCfermi_weighted_avg', 'Atomic Radius (?…)_AB_avg', 'Bsite_Most stable oxidation State_range', 'Asite_Ionic Radius (angstroms)_min', 'Asite_MendeleevNumber_min', 'BCCfermi_AB_avg', 'num_of_atoms_Asite0.1', 'Electron Affinity (kJ/mol)_AB_avg', 'heat of fusion_AB_diff', 'Bsite_thermal conductivity_max', 'Bsite_Coeficient of Thermal Expansion (10^-6 K-1)_weighted_avg', 'Asite_electrical conductivity_weighted_avg', 'First Ionization Potential (V)_AB_avg', 'Electro-  negativity_AB_diff', 'Bsite_NdValence_max', 'Bsite0_BCCenergy_pa', 'num_of_atoms_Bsite0.1']
+------相关性筛选--------
+
+------递归消除--------
+剩余合金因子数：19
+剩余合金因子：['Bsite0_IsFCC', 'Bsite_IsFCC_weighted_avg', 'MendeleevNumber_AB_avg', 'Asite_electrical conductivity_max', 'Bsite0_NUnfilled', 'Bsite_NUnfilled_min', 'Bsite0_NdUnfilled', 'Asite_ BP (K)_weighted_avg', 'Bsite0_At. Radius   (angstroms)', 'Bsite_IsBCC_weighted_avg', 'Asite_NUnfilled_max', 'Bsite_Heat of Vaporization_weighted_avg', 'Asite_BCCvolume_pa_range', 'Bsite0_NdValence', 'Bsite_BCCvolume_pa_max', 'GSenergy_pa_AB_avg', 'Atomic Radius (?…)_AB_avg', 'Bsite_Most stable oxidation State_range', 'Asite_electrical conductivity_weighted_avg']
+MAE：0.14187365603154806
+------递归消除--------
+
+------穷举筛选--------
+剩余合金因子数：13
+剩余合金因子：['Bsite_IsFCC_weighted_avg', 'MendeleevNumber_AB_avg', 'Asite_electrical conductivity_max', 'Asite_ BP (K)_weighted_avg', 'Bsite0_At. Radius   (angstroms)', 'Bsite_IsBCC_weighted_avg', 'Asite_NUnfilled_max', 'Bsite_Heat of Vaporization_weighted_avg', 'Asite_BCCvolume_pa_range', 'Bsite_BCCvolume_pa_max', 'GSenergy_pa_AB_avg', 'Atomic Radius (?…)_AB_avg', 'Bsite_Most stable oxidation State_range']
+MAE：0.146516146771642
+------穷举筛选--------
